@@ -1,0 +1,2 @@
+# SmartListTypeString
+SmartListTypeString
